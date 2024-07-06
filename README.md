@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" height="191" src="https://media.giphy.com/media/qtRdOhdbbXUInCEk4M/giphy.gif"  />
-🎓 I’m currently a 2nd year IT student at Damascus University<br>🚀 I’m currently working on The Movie Management System with java<br>🎶 I like listening to music -LoFi & HipHop, walking, chilling with friends, watching movies and communicating<br> ❤ Thanks for visiting
+🎓 I’m currently a 2nd year IT student at Damascus University<br>🚀 I’m working on The Product Automation Program for Almousoaa with Python<br>🎶 I like listening to music -LoFi & HipHop, walking, chilling with friends, watching movies and communicating<br> ❤ Thanks for visiting
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/7655) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/obaida.almelhem.7)
